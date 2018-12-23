@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              KL
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -41,7 +41,7 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             wingkitlee0
 
 # personal
 location:           Evanston, IL

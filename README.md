@@ -1,4 +1,4 @@
-# Massively
+## Massively
 > This is Massively, a text-heavy, article-oriented design built around a huge background
 image.
 
