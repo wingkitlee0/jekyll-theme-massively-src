@@ -28,3 +28,6 @@ On social media, we may share our own thoughts and advance our image notwithstan
 
 ### Contributions to open-source projects
 
+#### scikits.bvp_solver
+#### scikit-cuda
+
